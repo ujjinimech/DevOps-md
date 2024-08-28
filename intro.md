@@ -49,6 +49,7 @@ Here's a breakdown of the tools commonly used in DevOps, along with explanations
 
 6. **Continuous Integration/Continuous Delivery (CI/CD) 🚀**
    - **Azure DevOps 🛠️**
+   - ** Jenkins**
 
 7. **Containerization 📦**
    - **Docker (with Azure Container Registry - ACR) 🐳**
